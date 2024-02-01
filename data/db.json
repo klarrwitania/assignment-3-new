@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "title": "NOP",
+      "priority": "Low",
+      "duedate": "2024-01-17",
+      "description": "tesERERwefef",
+      "id": "01bb",
+      "status": "completed"
+    },
+    {
+      "id": "ce43",
+      "title": "yes",
+      "priority": "Low",
+      "duedate": "2024-01-17",
+      "description": "tes",
+      "status": "completed"
+    },
+    {
+      "title": "NOP",
+      "priority": "High",
+      "duedate": "2024-01-17",
+      "description": "tesRERERwefwef",
+      "id": "c01c"
+    }
+  ]
+}
